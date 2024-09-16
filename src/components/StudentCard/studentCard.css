@@ -1,0 +1,8 @@
+.card-parent{
+    max-width: 24rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: rgb(139, 139, 139);
+    border-radius: 5px;
+    margin: 5px;
+}
